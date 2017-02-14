@@ -1,5 +1,5 @@
 #-*-coding:utf-8 -*-
-token = 'paste your token here'
+token = 'paste your pomotodo token here'
 current_todos={}
 
 def pomotodo_get_completed_todos_from_todoist():
